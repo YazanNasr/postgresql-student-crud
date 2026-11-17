@@ -27,7 +27,6 @@ postgresql-student-crud/
 │   └── test_student_repository.py
 ├── .env.example
 ├── main.py
-├── VIDEO_SCRIPT.md
 ├── requirements.txt
 └── requirements-dev.txt
 ```
@@ -119,8 +118,6 @@ PostgreSQL database and confirm the same changes in pgAdmin.
 ## Demonstration video
 
 Video link: **REPLACE THIS TEXT WITH THE VIEWABLE VIDEO URL BEFORE SUBMITTING**
-
-Use the complete, timed recording guide in [`VIDEO_SCRIPT.md`](VIDEO_SCRIPT.md).
 
 The recording must be no longer than five minutes. Show, in order:
 
